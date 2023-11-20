@@ -83,7 +83,7 @@ public class TicTacToe {
 		    	
 		    	System.out.print("Pick a box that is blank: ");
 		    	x = scan.nextInt();
-		    	
+		    	 
 		    }
 		    if ("o".equals(board[0][4]) && x == 3) {
 		    	
